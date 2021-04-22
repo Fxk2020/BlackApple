@@ -25,7 +25,17 @@
 
 
 
-成为黑苹果：
+1.[如何添加Windows引导项](https://www.bilibili.com/video/BV1f541147Ag)
+
+2.[如何对原生的WiFi进行驱动](https://www.bilibili.com/video/av245512419/)
+
+对原生的WiFi进行驱动：
+
+![](/img/wifi.png)
+
+
+
+在Windows下成为黑苹果：
 
 ![](/img/1.png)
 
