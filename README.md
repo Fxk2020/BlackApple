@@ -23,8 +23,6 @@
 
 不能正常休眠，推荐使用关闭屏幕代替休眠。
 
-
-
 1.[如何添加Windows引导项](https://www.bilibili.com/video/BV1f541147Ag)
 
 2.[如何对原生的WiFi进行驱动](https://www.bilibili.com/video/av245512419/)
@@ -40,3 +38,9 @@
 ![](/img/1.png)
 
 ![](/img/2.png)
+
+当使用原生的WiFi驱动时，电脑可以正常休眠。
+
+3.[正常驱动蓝牙](https://www.bilibili.com/video/BV1LJ41157Gs?t=124)
+
+驱动蓝牙后可以正常使用接力。
